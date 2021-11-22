@@ -1,0 +1,430 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = "A very good battle, indeed!"
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = "Very good."
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = "You're too good for me!"
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = "Aww, I lost."
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = "A very good battle, indeed!"
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = "You beat me again!"
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = "Defeated! Oh my!"
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = "Defeated! Oh my!"
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = "You're too good for me!"
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = "Washed out!"
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = "My Skitty!"
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = "You didn't have to win so convincingly!"
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = "Our teamwork failed!"
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_Brendan,Brendan]
+LoseText = "..."
+Pokemon = MARSHTOMP,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = "Washed out!"
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = "Not too shabby."
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = "A good battle indeed!"
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[MAITRE_BLUE,Blue]
+LoseText = "..."
+Pokemon = AERODACTYL,50
+    Gender = male
+    Moves = STONEEDGE,EARTHQUAKE,ICEFANG,FIREBLAST
+    Item = CHOICEBAND
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = EXEGGUTOR,50
+    Gender = male
+    Moves = LEAFSTORM,WOODHAMMER,ZENHEADBUTT,LEECHSEED
+    Item = LIFEORB
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,50
+    Gender = male
+    Moves = WATERFALL,EARTHQUAKE,ICEFANG,OUTRAGE
+    Item = KINGSROCK
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = ALAKAZAM,50
+    Gender = male
+    Moves = PSYCHIC,FOCUSBLAST,SHADOWBALL,REFLECT
+    Item = FOCUSSASH
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = ARCANINE,50
+    Gender = male
+    Moves = FLAREBLITZ,CLOSECOMBAT,WILDCHARGE,EXTREMESPEED
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = MACHAMP,50
+    Gender = male
+    Moves = SUPERPOWER,STONEEDGE,FIREPUNCH,BULLETPUNCH
+    Item = WHITEHERB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_CYNTHIA,Cynthia]
+LoseText = "..."
+Pokemon = GARCHOMP,50
+    Gender = female
+    Moves = OUTRAGE,EARTHQUAKE,STONEEDGE,SWORDSDANCE
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = SPIRITOMB,50
+    Gender = female
+    Moves = SUCKERPUNCH,PROTECT,WILLOWISP,PAINSPLIT
+    Item = ROCKYHELMET
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = ROSERADE,50
+    Gender = female
+    Moves = LEAFSTORM,SLUDGEBOMB,SHADOWBALL,SLEEPPOWDER
+    Item = WHITEHERB
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,50
+    Gender = female
+    Moves = AIRSLASH,AURASPHERE,SHADOWBALL,GRASSKNOT
+    Item = LEFTOVERS
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,50
+    Gender = female
+    Moves = CLOSECOMBAT,DARKPULSE,STONEEDGE,EXTREMESPEED
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = GLACEON,50
+    Gender = female
+    Moves = ICEBEAM,SHADOWBALL,SIGNALBEAM,WATERPULSE
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_GOYAH,Goyah]
+LoseText = "..."
+Pokemon = VOLCARONA,50
+    Gender = male
+    Moves = HEATWAVE,BUGBUZZ,PSYCHIC,QUIVERDANCE
+    Item = CHARTIBERRY
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = CONKELDURR,50
+    Gender = male
+    Moves = HAMMERARM,PAYBACK,STONEEDGE,MACHPUNCH
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = REUNICLUS,50
+    Gender = male
+    Moves = PSYCHIC,PROTECT,TOXIC,LIGHTSCREEN
+    Item = LEFTOVERS
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE,50
+    Gender = male
+    Moves = EARTHQUAKE,CRUNCH,STONEEDGE,OUTRAGE
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CHANDELURE,50
+    Gender = male
+    Moves = FLAMETHROWER,SHADOWBALL,PSYCHIC,ENERGYBALL
+    Item = CHOICESCARF
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = BRAVIARY,50
+    Gender = male
+    Moves = BRAVEBIRD,SUPERPOWER,ROCKSLIDE,UTURN
+    Item = CHOICEBAND
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_IRIS,Iris]
+LoseText = "..."
+Pokemon = HYDREIGON,50
+    Gender = female
+    Moves = FIREBLAST,FOCUSBLAST,DRAGONPULSE,SURF
+    Item = WISEGLASSES
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,50
+    Gender = female
+    Moves = FIREBLAST,EARTHQUAKE,DRACOMETEOR,CRUNCH
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,50
+    Gender = female
+    Moves = ACROBATICS,STONEEDGE,DRAGONCLAW,ENDEAVOR
+    Item = FLYINGGEM
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON,50
+    Gender = female
+    Moves = EARTHQUAKE,DOUBLEEDGE,HEADSMASH,AUTOTOMIZE
+    Item = MUSCLEBAND
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = LAPRAS,50
+    Gender = female
+    Moves = HYDROPUMP,BLIZZARD,THUNDER,SING
+    Item = ZOOMLENS
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,50
+    Gender = female
+    Moves = EARTHQUAKE,GUILLOTINE,OUTRAGE,DRAGONDANCE
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_MARC,Marc]
+LoseText = "..."
+Pokemon = MILOTIC,50
+    Gender = male
+    Moves = SCALD,ICYWIND,REST,SLEEPTALK
+    Item = ROCKYHELMET
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = SHARPEDO,50
+    Gender = male
+    Moves = HYDROPUMP,CRUNCH,ZENHEADBUTT,AQUAJET
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = WALREIN,50
+    Gender = male
+    Moves = SURF,YAWN,BLIZZARD,SHEERCOLD
+    Item = LEFTOVERS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+Pokemon = LUDICOLO,50
+    Gender = male
+    Moves = SURF,FOCUSBLAST,GIGADRAIN,RAINDANCE
+    Item = LIFEORB
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT,50
+    Gender = male
+    Moves = MUDDYWATER,EARTHPOWER,ICEBEAM,FOCUSBLAST
+    Item = RINDOBERRY
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = STARMIE,50
+    Gender = male
+    Moves = SURF,PSYCHIC,THUNDERBOLT,SIGNALBEAM
+    Item = EXPERTBELT
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_PETER,Peter]
+LoseText = "..."
+Pokemon = DRAGONITE,50
+    Gender = male
+    Moves = EXTREMESPEED,ICEPUNCH,FIREPUNCH,DRACOMETEOR
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,50
+    Gender = male
+    Moves = DRAGONCLAW,EARTHQUAKE,STONEEDGE,CRUNCH
+    Item = EXPERTBELT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = KINGDRA,50
+    Gender = male
+    Moves = SURF,DRAGONPULSE,ICEBEAM,FLASHCANNON
+    Item = SCOPELENS
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,50
+    Gender = male
+    Moves = OUTRAGE,SUPERPOWER,EARTHQUAKE,ROCKSLIDE
+    Item = CHOICESCARF
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,50
+    Gender = male
+    Moves = DRACOMETEOR,DARKPULSE,FIREBLAST,EARTHPOWER
+    Item = WHITEHERB
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+Pokemon = FLYGON,50
+    Gender = male
+    Moves = DRACOMETEOR,EARTHPOWER,SOLARBEAM,UTURN
+    Item = POWERHERB
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MAITRE_PIERRE,Pierre]
+LoseText = "..."
+Items = FULLRESTORE,FULLRESTORE
+Pokemon = METAGROSS,50
+    Gender = male
+    Moves = ZENHEADBUTT,HAMMERARM,EARTHQUAKE,BULLETPUNCH
+    Item = OCCABERRY
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON,50
+    Gender = male
+    Moves = HEADSMASH,AVALANCHE,EARTHQUAKE,METALBURST
+    Item = AIRBALLOON
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL,50
+    Gender = male
+    Moves = EARTHQUAKE,ROCKSLIDE,XSCISSOR,SANDSTORM
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,50
+    Gender = male
+    Moves = HEADSMASH,ACROBATICS,EARTHQUAKE,QUICKATTACK
+    Item = SITRUSBERRY
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,50
+    Gender = male
+    Moves = STONEEDGE,SEEDBOMB,EARTHQUAKE,SANDSTORM
+    Item = EXPERTBELT
+    Nature = IMPISH
+    IV = 31,31,31,31,31,31
+Pokemon = ARMALDO,50
+    Gender = male
+    Moves = XSCISSOR,ROCKBLAST,EARTHQUAKE,SUPERPOWER
+    Item = WHITEHERB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------				
+[DRESSEUR_RED,Red]					
+Pokemon = VENUSAUR,100					
+	Item = WHITEHERB				
+	Moves = LEAFSTORM,SLUDGEBOMB,EARTHQUAKE,SLEEPPOWDER				
+	Gender = M				
+	Nature = BOLD				
+	IV = 31,31,31,31,31,31				
+Pokemon = CHARIZARD,100					
+	Item = FOCUSSASH				
+	Moves = FIREBLAST,FOCUSBLAST,AIRSLASH,DRAGONPULSE				
+	Gender = M				
+	Nature = JOLLY				
+	IV = 31,31,31,31,31,31				
+Pokemon = BLASTOISE,100					
+	Item = CHOICESCARF				
+	Moves = WATERSPOUT,HYDROPUMP,BLIZZARD,FOCUSBLAST				
+	Gender = M				
+	Nature = BOLD				
+	IV = 31,31,31,31,31,31				
+Pokemon = PIKACHU,100					
+	Item = LIGHTBALL				
+	Moves = VOLTTACKLE,IRONTAIL,BRICKBREAK,FAKEOUT				
+	Gender = M				
+	Nature = ADAMANT				
+	IV = 31,31,31,31,31,31				
+Pokemon = SNORLAX,100					
+	Item = QUICKCLAW				
+	Moves = BODYSLAM,EARTHQUAKE,CRUNCH,SEEDBOMB				
+	Gender = M				
+	Nature = ADAMANT				
+	IV = 31,31,31,31,31,31				
+Pokemon = LAPRAS,100					
+	Item = SITRUSBERRY				
+	Moves = ICEBEAM,HYDROPUMP,ICESHARD,THUNDERBOLT				
+	Gender = M				
+	Nature = MODEST				
+	IV = 31,31,31,31,31,31				
